@@ -1,4 +1,4 @@
-# 2K-resurrected-
+# 2K-resurrected-Archive
 An archive of both the Textures and memory cards of the NFL 2K Resurrected Team.
 **NOT OFFICAL**
 but heres an offical discord: https://discord.gg/Fvt5PyDA
