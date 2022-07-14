@@ -1,4 +1,4 @@
-** Copying files**;; pretty simple go to your $PCSX2_CONFIG and copy the the textures folder from this directory to your PCSX2 CONFIG
+**Copying files**;; pretty simple go to your $PCSX2_CONFIG and copy the the textures folder from this directory to your PCSX2 CONFIG
 
 $PCSX2_CONFIG depends on your Opreating system.
 
@@ -7,7 +7,7 @@ For Mac it is Library/Application Support/PCSX2/**(This is where the textures go
 
 
 
-** Enabling MODS **
+**Enabling MODS**
 Since we cannot use JSGME, We have to copy these files manually;; It's really easy
 
 To enable copy the MOD   from the MODS/THE_MOD_YOU_WANT/textures/SLUS-20919/replacements/zall to $PCSX2_CONFIG textures/SLUS-20919/replacements/zall/
